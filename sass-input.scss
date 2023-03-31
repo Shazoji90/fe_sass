@@ -9,6 +9,7 @@ $font-stack: Helvetica, sans-serif;
 body {
   font: 100% $font-stack;
   margin: 0;
+  scroll-behavior: smooth;
 }
 .navbar {
   background-color: $light-color;
